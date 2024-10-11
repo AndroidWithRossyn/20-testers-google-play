@@ -6,7 +6,7 @@ Explore early access to new Android apps and contribute your expertise by testin
 
 ![pv](https://pageview.vercel.app/?github_user=AndroidWithRossyn/20-testers-google-play)
 
-<a href="https://api.whatsapp.com/send?phone=+919694260426&text=Hello%20developers%20of%20Rossyn,%20I%20would%20like%20to%20become%20a%20tester%20of%20the%20new%20version%20of%20Your%20Products."><img src="https://img.shields.io/badge/Become Tester-PlayStore Apps-red"></a>
+<a href="https://groups.google.com/g/android-testers-community"><img src="https://img.shields.io/badge/Become Tester-PlayStore Apps-red"></a>
 
 <a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=Telegram&logoColor=white"></a>
 <a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white"></a>
